@@ -1,0 +1,42 @@
+.login-title{
+    text-align: center;
+    font-size: 24px;
+    color: darkcyan;
+}
+.remove{
+    float: right;
+    cursor: pointer;
+}
+.login-types{
+    margin-top: 20px;
+    height: 100%;
+}
+.google-oauth-button{
+    margin-left: 100px;
+}
+.login-form{
+    width:100%;
+    text-align: center;
+    margin: auto;
+    height: 30px;
+    box-sizing: border-box;
+}
+.login-form-button{
+    color:white;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    background-color: hotpink;
+}
+.slambook-new{
+    font-size: 12px;
+    float: right;
+}
+.signup{
+    color: hotpink;
+    cursor:pointer;
+}
+.login-using{
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 10px;
+}

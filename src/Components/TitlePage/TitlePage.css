@@ -1,0 +1,64 @@
+.title-bar{
+    height: 50px;
+    background-color:#FF7F50;
+}
+.title-icon{
+    height: 100%;
+    cursor: pointer;
+    float: left;
+}
+.about-us,.contact-us,.login-button{
+    float: right;
+    font-size: 30px;
+    margin:8px 10px 7px 10px;
+    cursor:pointer;
+    color: lightblue;
+}
+.about{
+    text-align: center;
+    height: 100%;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.about-data{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.team{
+    margin: 30px;
+    text-align: center;
+    font-size: 28px;
+    height: 300px;
+}
+.team-details{
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 4px;
+    float: left;
+    width: 20%;
+    margin-top: 20px;
+    height: 200px;
+    margin-left: 5%;
+    cursor:pointer;
+}
+.team-picture{
+    margin-top: 10%;
+    width: 70%;
+    height: 60%;
+}
+.team-name{
+    font-size: 17px;
+}
+.footer-title-page{
+    margin-top: 200px;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: #343A40;
+    color: white;
+}
+.footer-setting-title-page{
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 50px 0;
+}

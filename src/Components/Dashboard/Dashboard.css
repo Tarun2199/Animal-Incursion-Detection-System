@@ -95,12 +95,7 @@ td,th{
     border-radius: 2px;
 }
 .search-bar{
-    /*float: right;*/
     margin: 5px 5px 5px 5px;
-}
-.inner-table{
-    /*margin-top: 30px;*/
-
 }
 .user-data{
     height:100px;
@@ -111,16 +106,23 @@ td,th{
     box-sizing: border-box;
     border: 1px black solid;
     margin: auto;
-    height: 400px;
-    width: 400px;
-
+    height: 150px;
+    width: 300px;
 }
 .file-export-button{
-    /*width: 400px;*/
-    padding: 40% 23%;
+    box-sizing: border-box;
+    padding: 16% 0 22% 0;
+    float: right;
 }
 .submit-button{
     float: right;
+    width: 100%;
+    height: 40px;
+    background-color: grey;
+    color: white;
+    padding: 0;
+    border: 2px black;
+    cursor:pointer;
 }
 .image-div{
     width: 100%;

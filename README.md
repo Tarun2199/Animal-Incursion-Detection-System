@@ -1,7 +1,7 @@
 # How To Train an Object Detection Classifier for Multiple Objects Using TensorFlow (GPU) on Windows 10
 
 ## Brief Summary
-*Last updated: 6/22/2019 with TensorFlow v1.13.1*
+*Last updated: 6/4/2020 with TensorFlow v1.13.1*
 
 
 This readme describes every step required to get going with your own object detection classifier: 
@@ -16,11 +16,7 @@ This readme describes every step required to get going with your own object dete
 
 [Appendix: Common Errors](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#appendix-common-errors)
 
-The repository provides all the files needed to train a "Pinochle Deck" playing card detector that can accurately detect nines, tens, jacks, queens, kings, and aces. The tutorial describes how to replace these files with your own files to train a detection classifier for whatever your heart desires. It also has Python scripts to test your classifier out on an image, video, or webcam feed.
-
-<p align="center">
-  <img src="doc/detector1.jpg">
-</p>
+The repository provides all the files needed to train a "Animal Detection System"
 
 ## Introduction
 The purpose of this tutorial is to explain how to train your own convolutional neural network object detection classifier for multiple objects, starting from scratch. At the end of this tutorial, you will have a program that can identify and draw boxes around specific objects in pictures, videos, or in a webcam feed.
